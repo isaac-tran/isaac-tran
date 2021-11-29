@@ -32,6 +32,9 @@ I uh... don't. (I'm kidding) <br>
 :scream_cat: CATS<br>
 :coffee: Coffee, but also BOBA TEA<br>
 
+### Contact me
+**Email:** triquang.tran4@gmail.com
+
 
 
 
