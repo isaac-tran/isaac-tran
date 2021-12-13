@@ -19,8 +19,8 @@ A 2D platformer game. Submission for Scream Jam 2019. I co-programmed the game's
 ### My skills
 
 :zap: **Game engines:** Unity, GDevelop 5, (a tiny bit of) Unreal Engine 4.<br>
-:computer: **Languages:** C#, C++, (a bit of) Java. <br>
-:chicken: **Misc.:** HTML5, CSS, Javascript (React Native). <br>
+:computer: **Languages:** C#, C++
+:chicken: **Misc.:** HTML5, CSS, Javascript (React Native), (a bit of) Java. <br>. <br>
 :cat2: **Even more misc.:** Gravit Designer. <br>
 
 ### Life
